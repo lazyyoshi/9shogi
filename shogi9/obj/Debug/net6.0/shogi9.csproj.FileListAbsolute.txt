@@ -1,0 +1,12 @@
+C:\shogi9\DLL\shogi9\bin\Debug\net6.0\shogi9.deps.json
+C:\shogi9\DLL\shogi9\bin\Debug\net6.0\shogi9.dll
+C:\shogi9\DLL\shogi9\bin\Debug\net6.0\shogi9.pdb
+C:\shogi9\DLL\shogi9\obj\Debug\net6.0\shogi9.csproj.AssemblyReference.cache
+C:\shogi9\DLL\shogi9\obj\Debug\net6.0\shogi9.GeneratedMSBuildEditorConfig.editorconfig
+C:\shogi9\DLL\shogi9\obj\Debug\net6.0\shogi9.AssemblyInfoInputs.cache
+C:\shogi9\DLL\shogi9\obj\Debug\net6.0\shogi9.AssemblyInfo.cs
+C:\shogi9\DLL\shogi9\obj\Debug\net6.0\shogi9.csproj.CoreCompileInputs.cache
+C:\shogi9\DLL\shogi9\obj\Debug\net6.0\shogi9.dll
+C:\shogi9\DLL\shogi9\obj\Debug\net6.0\refint\shogi9.dll
+C:\shogi9\DLL\shogi9\obj\Debug\net6.0\shogi9.pdb
+C:\shogi9\DLL\shogi9\obj\Debug\net6.0\ref\shogi9.dll
